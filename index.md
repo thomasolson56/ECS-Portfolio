@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Thomas Olson's frat house
 
 You can use the [editor on GitHub](https://github.com/thomasolson56/ECS-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
